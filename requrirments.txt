@@ -3,3 +3,5 @@ Emoji
 Type option
 colors
 vibarnt 
+dark mode
+video chat
